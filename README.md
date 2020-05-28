@@ -2,7 +2,11 @@
 Assignment for lecture1.
 
 ## Overview
-Implement a simple RANSAC example for RGB-D images pose estimation. The major part to be coded is the evaluation part of the RANSAC algorithm, it has been marked in the given notebook file.
+Implement a simple RANSAC example for RGB-D images pose estimation. The requirments are as follows:
+
+- (1) Go through the code ``assignment1.ipynb`` and annotate it richly to show that you understand it. There are some comments to get you started.
+- (2) Add code to complete the functionality in the indicated places
+- (3) Experiment with different settings to see how the system behaves (need to be specified a bit more)
 
 ## Installation
 
