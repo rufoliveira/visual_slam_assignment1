@@ -1,5 +1,5 @@
 # visual-slam-assignement1
-Assignment for lecture1.
+Assignment for lecture1. Forked version.
 
 ## Overview
 Implement a simple RANSAC example for RGB-D images pose estimation. The requirments are as follows:
