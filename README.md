@@ -25,6 +25,14 @@ jupyter notebook
 ```
 and open the ``assignment1.ipynb`` to checkout the details.
 
+### A personal note on installing stuff in Jupyter
+
+Since several python versions exist in the system it might not be straightforward how to install pip packages so that they become available in Jupyter. I had to follow this post: https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+In particular the following commands issued from a Jupyter Notebook worked fine:
+-# Install a pip package in the current Jupyter kernel
+-import sys
+-!{sys.executable} -m pip install numpy
+
 ## Data: Images to be aligned
 
 - **Color images:**
